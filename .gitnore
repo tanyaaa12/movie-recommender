@@ -1,0 +1,16 @@
+# Python junk
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.idea/
+.DS_Store
+
+# Streamlit cache
+.streamlit/
+
+# Dataset Files
+movies.pkl
+similarity.pkl
