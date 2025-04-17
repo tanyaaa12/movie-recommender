@@ -39,6 +39,3 @@ The app is deployed on Streamlit Cloud. You can access it [here](https://movie-r
 ## License
 This project is licensed under the MIT License.
 
----
-
-Let me know if you need further adjustments!
